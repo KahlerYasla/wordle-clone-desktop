@@ -1,0 +1,1 @@
+oyun kısmında frame'e pack yapılması gerekiyor
